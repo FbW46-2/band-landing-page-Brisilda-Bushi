@@ -9,6 +9,7 @@ import Guitar from './Pages/Guitar'
 import Bass from './Pages/Bass';
 import Drums from './Pages/Drums';
 import PageNotFound from './Pages/PageNotFound';
+import Logo from "./images/logo.png"
 
 function Content () {
   const location = useLocation()
@@ -39,6 +40,7 @@ function App() {
     <Router>
       <div className="Header">
       <div>
+        <img className="logo" src={Logo} alt=""></img>
         <NavLink className="headerLink" activeClassName="is-active" activeStyle={{color:"white"}} exact="true" to="/">Red Hot Chili Peppers</NavLink>
       </div>
       </div>

@@ -15,6 +15,13 @@
   color: #db1d27;
 }
 
+.logo {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  width: 60px;
+}
+
 .Navbar {
   height: 60px;
   display: flex;
