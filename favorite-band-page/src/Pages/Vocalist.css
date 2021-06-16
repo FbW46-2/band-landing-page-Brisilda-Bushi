@@ -1,0 +1,13 @@
+.vocalist {
+  background-image: url("../images/vocalist.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 110vh;
+}
+
+.vocalist h1 {
+  position: absolute;
+  color: rgba(255, 255, 255, 0.466);
+  top: 400px;
+}

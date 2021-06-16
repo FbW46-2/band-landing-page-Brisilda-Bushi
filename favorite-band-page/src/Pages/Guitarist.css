@@ -1,0 +1,13 @@
+.guitarist {
+  background-image: url("../images/guitarist.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 110vh;
+}
+
+.guitarist h1 {
+  position: absolute;
+  color: rgba(255, 255, 255, 0.466);
+  top: 400px;
+}
