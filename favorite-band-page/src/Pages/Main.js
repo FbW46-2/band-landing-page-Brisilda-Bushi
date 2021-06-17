@@ -1,13 +1,8 @@
-
-import React from 'react'
-import "./Main.css"
+import React from "react";
+import "./Main.css";
 
 function Main() {
-  return (
-      <div class="mainDiv">
-        
-      </div>
-  )
+  return <div class="mainDiv"></div>;
 }
 
-export default Main
+export default Main;

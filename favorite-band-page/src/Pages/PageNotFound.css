@@ -1,0 +1,18 @@
+*{
+  display: border-box;
+  padding: 0px;
+  margin: 0px;
+  background-color: black;
+  color: #db1d27;
+}
+.pageNotFound{
+  height: 100vh;
+  position: absolute;
+  left: 30%;
+  top: 170px;
+}
+
+.pageNotFound img {
+  border: black 3px solid;
+  width: 380px
+}
